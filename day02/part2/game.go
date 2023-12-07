@@ -1,7 +1,5 @@
 package main
 
-import "log"
-
 type Round struct {
   Red int
   Green int

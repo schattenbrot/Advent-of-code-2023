@@ -62,4 +62,4 @@ For each game, find the minimum set of cubes that must have been present. What i
 
 ### Result
 
-The result for part2 is: ``.
+The result for part2 is: `56580`.
